@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
 from telegram.error import TelegramError
 
-TELEGRAM_BOT_TOKEN = '7358755762:AAH8nEpfFdZuKm8eSW96pCd7uJEgroKJIn4'
+TELEGRAM_BOT_TOKEN = '7358755762:AAGeG6oFabTrhsB_qLzTqSS6CEdQ_y_9qIw'
 ALLOWED_USER_ID = 6286507682  
 bot_access_free = True  
 
@@ -70,3 +70,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
